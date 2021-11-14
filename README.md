@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi there 👋, my name is Jay
 #### a budding Developer & a Designer
