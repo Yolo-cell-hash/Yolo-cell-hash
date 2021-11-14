@@ -16,7 +16,7 @@ Young Enthusiastic Tech-Geek with the will to learn & explore. I really enjoy le
 
 
 ### 🎯  Languages and Tools:  🎯
-(<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
 
 ### 📲  Contact:  📲
 
