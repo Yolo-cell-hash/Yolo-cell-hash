@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Jay
+###👋 Hi there , my name is Jay  👋
 #### a budding Developer & a Designer
 ![a budding Developer & a Designer](https://media.giphy.com/media/wkGnUlDVsGryVf3fvs/giphy.gif)
 
