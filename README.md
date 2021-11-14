@@ -16,10 +16,7 @@ Young Enthusiastic Tech-Geek with the will to learn & explore. I really enjoy le
 
 
 ### 🎯  Languages and Tools:  🎯
-<img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/html5.svg' alt='HTML5' height='40'>
-<img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/html5.svg' alt='HTML5' height='40'>
-<img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/html5.svg' alt='HTML5' height='40'>
-<img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/html5.svg' alt='HTML5' height='40'>
+<img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/html5.svg' alt='HTML5' height='40'><img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/html5.svg' alt='HTML5' height='40'><img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/html5.svg' alt='HTML5' height='40'><img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/html5.svg' alt='HTML5' height='40'>
 
 
 ### 📲  Contact:  📲
