@@ -16,6 +16,8 @@ Skills:   HTML | CSS | JS |  EJS | CLI |  Design
 ### Languages and Tools:
 
 
+### Contact:
+<br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style="color:green" alt='github' height='40'  >](https://github.com/https://github.com/Yolo-cell-hash/Yolo-cell-hash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jay-keer-0ba889200/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jay.keer.31)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jaykeer__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yolo-cell-hash.github.io/cv/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/qwiklabs.svg' alt='qwiklabs' height='40'>](https://www.qwiklabs.com/public_profiles/4c5558be-7496-4088-98b8-711fe24dab48)  
 
 
