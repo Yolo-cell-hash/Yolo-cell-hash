@@ -1,6 +1,6 @@
 
-### 👋 Hi there , my name is Jay  👋
-#### a budding Developer & a Designer
+###                                                             👋 Hi there , my name is Jay  👋
+####                                                            a budding Developer & a Designer
 ![a budding Developer & a Designer](https://media.giphy.com/media/wkGnUlDVsGryVf3fvs/giphy.gif)
 
 Young Enthusiastic Tech-Geek with the will to learn & explore. I really enjoy learning new things and am constantly seeking out new learning opportunities. I'm not afraid of failure. In fact, I think it is an essential part of the experimental process that gets you to success.
