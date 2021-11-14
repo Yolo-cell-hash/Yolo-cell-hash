@@ -9,7 +9,7 @@ Young Enthusiastic Tech-Geek with the will to learn & explore. I really enjoy le
 
 - 🔭 I’m currently working on upgrading my Web Dev Skills. 
 - 🌱 I’m currently learning Node.js , MongoDB & React. 
-- 🤔 I’m looking for help with Backend Development. 
+- 🆘 I’m looking for help with Backend Development. 
 - 😄 Pronouns: He/Him 
 - 👀 I'm looking forward to contribute in open-source projects.
 - ⚡ Fun fact: Pineapples don't belong on Pizzas! 
