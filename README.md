@@ -5,7 +5,7 @@
 
 Young Enthusiastic Tech-Geek with the will to learn & explore. I really enjoy learning new things and am constantly seeking out new learning opportunities. I'm not afraid of failure. In fact, I think it is an essential part of the experimental process that gets you to success.
 
-Skills:   HTML | CSS | JS |  EJS | CLI |  Design
+⭐   HTML | CSS | JS |  EJS | CLI |  Design   ⭐
 
 - 🔭 I’m currently working on upgrading my Web Dev Skills. 
 - 🌱 I’m currently learning Node.js , MongoDB & React. 
