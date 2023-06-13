@@ -1,22 +1,22 @@
 
 ###                                                             👋 Hi there , my name is Jay  👋
 ####                                                            a budding Developer & a Designer
-![a budding Developer & a Designer](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+![a budding Cloud Developer](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
 Young Enthusiastic Tech-Geek with the will to learn & explore. I really enjoy learning new things and am constantly seeking out new learning opportunities. I'm not afraid of failure. In fact, I think it is an essential part of the experimental process that gets you to success.
 
-⭐   HTML | CSS | JS |  EJS | CLI | React | Design   ⭐
+⭐   HTML | CSS | JS |  EJS | CLI | React | GCP | AWS   ⭐
 
-- 🔭 I’m currently working on upgrading my Web Dev Skills. 
-- 🌱 I’m currently learning Node.js , MongoDB & React. 
-- 🆘 I’m looking for help with Backend Development. 
+- 🔭 I’m currently working on upgrading my Cloud Skills. 
+- 🌱 I’m currently learning React. 
+- 🆘 I’m looking for help with DevOps Development. 
 - 😄 Pronouns: He/Him 
 - 👀 I'm looking forward to contribute in open-source projects.
 - ⚡ Fun fact: Pineapples don't belong on Pizzas! 
 
 
 ### 🎯  Languages and Tools:  🎯
-<img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/html5.svg' alt='HTML5' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/css3.svg' alt='CSS3' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/javascript.svg' alt='JAVASCRIPT' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/nodedotjs.svg' alt='Node.js' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/mongodb.svg' alt='MongoDB' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/adobephotoshop.svg' alt='Photoshop' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/adobeillustrator.svg' alt='Illustrator' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/canva.svg' alt='Canva' height='40'>
+<img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/html5.svg' alt='HTML5' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/css3.svg' alt='CSS3' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/javascript.svg' alt='JAVASCRIPT' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/nodedotjs.svg' alt='Node.js' height='40'>  <img src='https://github.com/Yolo-cell-hash/Yolo-cell-hash/blob/main/mongodb.svg' alt='MongoDB' height='40'>
 
 
 ### 📲  Contact:  📲
