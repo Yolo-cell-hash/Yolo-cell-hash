@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on upgrading my Flutter skills.<br>👯 I’m looking to collaborate on open source projects<br>🆘 I’m looking for help with DevOps Development.<br>⚡ Fun fact : Polar bears have black skin beneath their white fur.
+🔭 Currently working on upgrading my Flutter skills.<br>🆘 I’m looking for help with DevOps Development.<br>⚡ Fun fact : Polar bears have black skin beneath their white fur.
 
 
 ## 🌐 Socials:
